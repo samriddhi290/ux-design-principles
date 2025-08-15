@@ -1,14 +1,86 @@
 [
   {
-    "title": "Clarity",
-    "description": "Ensure the design communicates clearly without unnecessary complexity."
+    "title": "Hick's Law",
+    "description": "More options leads to harder decisions."
   },
   {
-    "title": "Consistency",
-    "description": "Maintain uniform styles and behaviour across the product."
+    "title": "Confirmation Bias",
+    "description": "People look for evidence that confirms what they think."
   },
   {
-    "title": "Feedback",
-    "description": "Provide immediate and clear responses to user actions."
+    "title": "Priming",
+    "description": "Previous stimuli influence users' decisions."
+  },
+  {
+    "title": "Cognitive Load",
+    "description": "The total amount of mental effort required to complete a task."
+  },
+  {
+    "title": "Anchoring Bias",
+    "description": "Users rely heavily on the first piece of information they see."
+  },
+  {
+    "title": "Nudge",
+    "description": "Subtle hints can affect users' decisions."
+  },
+  {
+    "title": "Progressive Disclosure",
+    "description": "Users are less overwhelmed if complex features are revealed later."
+  },
+  {
+    "title": "Fitts's Law",
+    "description": "Large and close elements are easier to interact with."
+  },
+  {
+    "title": "Banner Blindness",
+    "description": "Users tune out repeatedly exposed content."
+  },
+  {
+    "title": "Decoy Effect",
+    "description": "Introduce a discardable option to influence choice."
+  },
+  {
+    "title": "Framing",
+    "description": "The way information is presented affects how decisions are made."
+  },
+  {
+    "title": "Attentional Bias",
+    "description": "People’s thoughts filter what they pay attention to."
+  },
+  {
+    "title": "Empathy Gap",
+    "description": "People underestimate how emotions influence behavior."
+  },
+  {
+    "title": "Visual Anchors",
+    "description": "Elements used to guide users' eyes."
+  },
+  {
+    "title": "Von Restorff Effect",
+    "description": "People notice items that stand out more."
+  },
+  {
+    "title": "Visual Hierarchy",
+    "description": "The order in which people perceive visual elements."
+  },
+  {
+    "title": "Selective Attention",
+    "description": "Users filter out irrelevant elements when focused."
+  },
+  {
+    "title": "Survivorship Bias",
+    "description": "People neglect things that fail to pass a selection process."
+  },
+  {
+    "title": "Juxtaposition",
+    "description": "Close and similar elements are perceived as related."
+  },
+  {
+    "title": "Signifiers",
+    "description": "Elements that communicate their function or behavior."
+  },
+  {
+    "title": "Contrast",
+    "description": "Users' attention is drawn to elements with higher visual weight."
   }
 ]
