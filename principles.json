@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Clarity",
+    "description": "Ensure the design communicates clearly without unnecessary complexity."
+  },
+  {
+    "title": "Consistency",
+    "description": "Maintain uniform styles and behaviour across the product."
+  },
+  {
+    "title": "Feedback",
+    "description": "Provide immediate and clear responses to user actions."
+  }
+]
