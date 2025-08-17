@@ -9,11 +9,11 @@
   },
   {
     "title": "Priming",
-    "description": "Previous stimuli influence users' decisions."
+    "description": "Previous stimuli influence users' decision."
   },
   {
     "title": "Cognitive Load",
-    "description": "The total amount of mental effort required to complete a task."
+    "description": "Total amount of mental effort that is required to complete a task."
   },
   {
     "title": "Anchoring Bias",
@@ -25,31 +25,19 @@
   },
   {
     "title": "Progressive Disclosure",
-    "description": "Users are less overwhelmed if complex features are revealed later."
+    "description": "Users are less overwhelmed if they're exposed to complex features later."
   },
   {
     "title": "Fitts's Law",
     "description": "Large and close elements are easier to interact with."
   },
   {
-    "title": "Banner Blindness",
-    "description": "Users tune out repeatedly exposed content."
-  },
-  {
-    "title": "Decoy Effect",
-    "description": "Introduce a discardable option to influence choice."
-  },
-  {
-    "title": "Framing",
-    "description": "The way information is presented affects how decisions are made."
-  },
-  {
     "title": "Attentional Bias",
-    "description": "People’s thoughts filter what they pay attention to."
+    "description": "Users' thoughts filter what they pay attention to."
   },
   {
     "title": "Empathy Gap",
-    "description": "People underestimate how emotions influence behavior."
+    "description": "People underestimate how much emotions influence user behaviors."
   },
   {
     "title": "Visual Anchors",
@@ -61,26 +49,378 @@
   },
   {
     "title": "Visual Hierarchy",
-    "description": "The order in which people perceive visual elements."
+    "description": "The order in which people perceive what they see."
   },
   {
     "title": "Selective Attention",
-    "description": "Users filter out irrelevant elements when focused."
+    "description": "People filter out things from their environment when in focus."
   },
   {
     "title": "Survivorship Bias",
-    "description": "People neglect things that fail to pass a selection process."
+    "description": "People neglect things that don't make it past a selection process."
+  },
+  {
+    "title": "Banner Blindness",
+    "description": "Users tune out the stuff they get repeatedly exposed to."
   },
   {
     "title": "Juxtaposition",
-    "description": "Close and similar elements are perceived as related."
+    "description": "Elements that are close and similar are perceived as a single unit."
   },
   {
     "title": "Signifiers",
-    "description": "Elements that communicate their function or behavior."
+    "description": "Elements that communicate what they will do."
   },
   {
     "title": "Contrast",
-    "description": "Users' attention is drawn to elements with higher visual weight."
+    "description": "Users' attention is drawn to higher visual weights."
+  },
+  {
+    "title": "External Trigger",
+    "description": "When the information on what to do next is within the prompt itself."
+  },
+  {
+    "title": "Decoy Effect",
+    "description": "Create a new option that's easy to discard."
+  },
+  {
+    "title": "Centre-Stage Effect",
+    "description": "People tend to choose the middle option in a set of items."
+  },
+  {
+    "title": "Framing",
+    "description": "The way information is presented affects how users make decisions."
+  },
+  {
+    "title": "Law of Proximity",
+    "description": "Elements close to each other are usually considered related."
+  },
+  {
+    "title": "Tesler's Law",
+    "description": "If you simplify too much, you'll transfer some complexity to the users."
+  },
+  {
+    "title": "Spark Effect",
+    "description": "Users are more likely to take action when the effort is small."
+  },
+  {
+    "title": "Feedback Loop",
+    "description": "When users take action, feedback communicates what happened."
+  },
+  {
+    "title": "Expectations Bias",
+    "description": "People tend to be influenced by their own expectations."
+  },
+  {
+    "title": "Aesthetic-Usability Effect",
+    "description": "People perceive designs with great aesthetics as easier to use."
+  },
+  {
+    "title": "Social Proof",
+    "description": "Users adapt their behaviors based on what others do."
+  },
+  {
+    "title": "Scarcity",
+    "description": "People value things more when they're in limited supply."
+  },
+  {
+    "title": "Curiosity Gap",
+    "description": "Users have a desire to seek out missing information."
+  },
+  {
+    "title": "Mental Model",
+    "description": "Users have a preconceived opinion of how things work."
+  },
+  {
+    "title": "Familiarity Bias",
+    "description": "People prefer familiar experiences."
+  },
+  {
+    "title": "Halo Effect",
+    "description": "People judge things (or people) based on their feelings towards one trait."
+  },
+  {
+    "title": "Miller’s Law",
+    "description": "Users can only keep 7±2 items in their working memory."
+  },
+  {
+    "title": "Unit Bias",
+    "description": "One unit of something feels like the optimal amount."
+  },
+  {
+    "title": "Flow State",
+    "description": "Being fully immersed and focused on a task."
+  },
+  {
+    "title": "Skeuomorphism",
+    "description": "Users adapt more easily to things that look like real-world objects."
+  },
+  {
+    "title": "Singularity Effect",
+    "description": "Users care disproportionately about an individual as compared to a group."
+  },
+  {
+    "title": "Reciprocity",
+    "description": "People feel the need to reciprocate when they receive something."
+  },
+  {
+    "title": "Authority Bias",
+    "description": "Users attribute more importance to the opinion of an authority figure."
+  },
+  {
+    "title": "Pseudo-Set Framing",
+    "description": "Tasks that are part of a group are more tempting to complete."
+  },
+  {
+    "title": "Variable Reward",
+    "description": "People especially enjoy unexpected rewards."
+  },
+  {
+    "title": "Group Attractiveness Effect",
+    "description": "Individual items seem more attractive when presented in a group."
+  },
+  {
+    "title": "Curse of Knowledge",
+    "description": "Not realizing that people don't have the same level of knowledge."
+  },
+  {
+    "title": "Aha! moment",
+    "description": "When new users first realize the value of your product."
+  },
+  {
+    "title": "Self-Initiated Triggers",
+    "description": "Users are more likely to interact with prompts they setup for themselves."
+  },
+  {
+    "title": "Survey Bias",
+    "description": "Users tend to skew survey answers towards what's socially acceptable."
+  },
+  {
+    "title": "Cognitive Dissonance",
+    "description": "It's painful to hold two opposing ideas in our mind."
+  },
+  {
+    "title": "Goal Gradient Effect",
+    "description": "Motivation increases as users get closer to their goal."
+  },
+  {
+    "title": "Feedforward",
+    "description": "When users know what to expect before they take action."
+  },
+  {
+    "title": "Occam’s Razor",
+    "description": "Simple solutions are often better than the more complex ones."
+  },
+  {
+    "title": "Noble Edge Effect",
+    "description": "Users tend to prefer socially responsible companies."
+  },
+  {
+    "title": "Hawthorne Effect",
+    "description": "Users change their behavior when they know they are being observed."
+  },
+  {
+    "title": "Hindsight Bias",
+    "description": "People overestimate their ability to predict outcomes after the fact."
+  },
+  {
+    "title": "Law of Similarity",
+    "description": "Users perceive a relationship between elements that look similar."
+  },
+  {
+    "title": "Law of Prägnanz",
+    "description": "Users interpret ambiguous images in a simpler and more complete form."
+  },
+  {
+    "title": "Streisand Effect",
+    "description": "When trying to censor information ends up increasing awareness of that information."
+  },
+  {
+    "title": "Spotlight Effect",
+    "description": "People tend to believe they are being noticed more than they really are."
+  },
+  {
+    "title": "Fresh Start Effect",
+    "description": "Users are more likely to take action if there's a feeling of new beginnings."
+  },
+  {
+    "title": "Labor Illusion",
+    "description": "People value things more when they see the work behind them."
+  },
+  {
+    "title": "Default Bias",
+    "description": "Users tend not to change an established behavior."
+  },
+  {
+    "title": "Investment Loops",
+    "description": "When users invest themselves, they're more likely to come back."
+  },
+  {
+    "title": "Loss Aversion",
+    "description": "People prefer to avoid losses more than earning equivalent gains."
+  },
+  {
+    "title": "Commitment & Consistency",
+    "description": "Users tend to be consistent with their previous actions."
+  },
+  {
+    "title": "Sunk Cost Effect",
+    "description": "Users are reluctant to pull out of something they're invested in."
+  },
+  {
+    "title": "Decision Fatigue",
+    "description": "Making a lot of decisions lowers users' ability to make rational ones."
+  },
+  {
+    "title": "Reactance",
+    "description": "Users are less likely to adopt a behavior when they feel forced."
+  },
+  {
+    "title": "Observer-Expectancy Effect",
+    "description": "When researchers' biases influence the participants of an experiment."
+  },
+  {
+    "title": "Weber's Law",
+    "description": "Users adapt better to small incremental changes."
+  },
+  {
+    "title": "Law of the Instrument",
+    "description": "If all you have is a hammer, everything looks like a nail."
+  },
+  {
+    "title": "Temptation Bundling",
+    "description": "Hard tasks are less scary when coupled with something users desire."
+  },
+  {
+    "title": "Parkinson’s Law",
+    "description": "The time required to complete a task will take as much time as allowed."
+  },
+  {
+    "title": "Dunning-Kruger Effect",
+    "description": "People tend to overestimate their skills when they don't know much."
+  },
+  {
+    "title": "Affect Heuristic",
+    "description": "People's current emotions cloud and influence their judgment."
+  },
+  {
+    "title": "Hyperbolic Discounting",
+    "description": "People tend to prioritize immediate benefits over bigger future gains."
+  },
+  {
+    "title": "Cashless Effect",
+    "description": "People spend more when they can't actually see the money."
+  },
+  {
+    "title": "Chronoception",
+    "description": "People's perception of time is subjective."
+  },
+  {
+    "title": "Self-serving bias",
+    "description": "People take credits for positive events and blame others if negative."
+  },
+  {
+    "title": "Pareto Principle",
+    "description": "Roughly 80% of the effects come from 20% of the causes."
+  },
+  {
+    "title": "Discoverability",
+    "description": "The ease with which users can discover your features."
+  },
+  {
+    "title": "Backfire Effect",
+    "description": "When people's convictions are challenged, their beliefs get stronger."
+  },
+  {
+    "title": "False Consensus Effect",
+    "description": "People overestimate how much other people agree with them."
+  },
+  {
+    "title": "Bandwagon Effect",
+    "description": "Users tend to adopt beliefs in proportion of others who have already done so."
+  },
+  {
+    "title": "Barnum-Forer Effect",
+    "description": "When you believe generic personality descriptions apply specifically to you."
+  },
+  {
+    "title": "Second-Order Effect",
+    "description": "The consequences of the consequences of actions."
+  },
+  {
+    "title": "IKEA Effect",
+    "description": "When user partially create something, they value it way more."
+  },
+  {
+    "title": "Planning Fallacy",
+    "description": "People tend to underestimate how much time a task will take."
+  },
+  {
+    "title": "Provide Exit Points",
+    "description": "Invite users to leave your app at the right moment."
+  },
+  {
+    "title": "Peak-End Rule",
+    "description": "People judge an experience by its peak and how it ends."
+  },
+  {
+    "title": "Sensory Appeal",
+    "description": "Users engage more with things appealing to multiple senses."
+  },
+  {
+    "title": "Zeigarnik Effect",
+    "description": "People remember incomplete tasks better than completed ones."
+  },
+  {
+    "title": "Endowment Effect",
+    "description": "Users value something more if they feel it's theirs."
+  },
+  {
+    "title": "Chunking",
+    "description": "People remember grouped information better."
+  },
+  {
+    "title": "Picture Superiority Effect",
+    "description": "People remember pictures better than words."
+  },
+  {
+    "title": "Method of Loci",
+    "description": "People remember things more when they're associated with a location."
+  },
+  {
+    "title": "Shaping",
+    "description": "Incrementally reinforcing actions to get closer to a target behavior."
+  },
+  {
+    "title": "Delighters",
+    "description": "People remember more unexpected and playful pleasures."
+  },
+  {
+    "title": "Internal Trigger",
+    "description": "When users are prompted to take action based on a memory."
+  },
+  {
+    "title": "Recognition Over Recall",
+    "description": "It's easier to recognize things than recall them from memory."
+  },
+  {
+    "title": "Storytelling Effect",
+    "description": "People remember stories better than facts alone."
+  },
+  {
+    "title": "Negativity Bias",
+    "description": "Users recall negative events more than positive ones."
+  },
+  {
+    "title": "Availability Heuristic",
+    "description": "Users favor recent and available information over past information."
+  },
+  {
+    "title": "Spacing Effect",
+    "description": "People learn more effectively when study sessions are spaced out."
+  },
+  {
+    "title": "Serial Position Effect",
+    "description": "It's easier for users to recall the first and last items of a list."
   }
 ]
